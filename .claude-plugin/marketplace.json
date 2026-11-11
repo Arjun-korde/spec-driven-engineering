@@ -1,0 +1,15 @@
+{
+  "name": "spec-driven-marketplace",
+  "owner": {
+    "name": "Arjun Korde",
+    "email": "arjunkorde2004@gmail.com"
+  },
+  "description": "Spec-driven AI engineering workflow plugin for any role and tech stack.",
+  "plugins": [
+    {
+      "name": "spec-driven-engineering",
+      "source": "./",
+      "description": "Role- and stack-agnostic spec-driven AI engineering workflow, based on 'Spec-Driven AI Engineering' by Gem Iroko."
+    }
+  ]
+}

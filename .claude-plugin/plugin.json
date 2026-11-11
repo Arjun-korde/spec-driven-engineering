@@ -1,0 +1,10 @@
+{
+  "name": "spec-driven-engineering",
+  "version": "0.1.0",
+  "description": "Role- and stack-agnostic spec-driven AI engineering workflow: intent, requirements, specs, tasks, tests, controlled implementation, review, release and spec-drift maintenance. Based on 'Spec-Driven AI Engineering' by Gem Iroko.",
+  "author": {
+    "name": "Arjun Korde",
+    "email": "arjunkorde2004@gmail.com"
+  },
+  "keywords": ["spec-driven", "requirements", "traceability", "ai-agents", "testing", "workflow"]
+}
